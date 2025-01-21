@@ -1,0 +1,14 @@
+E:\Свое\Captures\C#\Клиент-Сервер\NewClient\NewClient\bin\Debug\net8.0\NewClient.exe
+E:\Свое\Captures\C#\Клиент-Сервер\NewClient\NewClient\bin\Debug\net8.0\NewClient.deps.json
+E:\Свое\Captures\C#\Клиент-Сервер\NewClient\NewClient\bin\Debug\net8.0\NewClient.runtimeconfig.json
+E:\Свое\Captures\C#\Клиент-Сервер\NewClient\NewClient\bin\Debug\net8.0\NewClient.dll
+E:\Свое\Captures\C#\Клиент-Сервер\NewClient\NewClient\bin\Debug\net8.0\NewClient.pdb
+E:\Свое\Captures\C#\Клиент-Сервер\NewClient\NewClient\obj\Debug\net8.0\NewClient.GeneratedMSBuildEditorConfig.editorconfig
+E:\Свое\Captures\C#\Клиент-Сервер\NewClient\NewClient\obj\Debug\net8.0\NewClient.AssemblyInfoInputs.cache
+E:\Свое\Captures\C#\Клиент-Сервер\NewClient\NewClient\obj\Debug\net8.0\NewClient.AssemblyInfo.cs
+E:\Свое\Captures\C#\Клиент-Сервер\NewClient\NewClient\obj\Debug\net8.0\NewClient.csproj.CoreCompileInputs.cache
+E:\Свое\Captures\C#\Клиент-Сервер\NewClient\NewClient\obj\Debug\net8.0\NewClient.dll
+E:\Свое\Captures\C#\Клиент-Сервер\NewClient\NewClient\obj\Debug\net8.0\refint\NewClient.dll
+E:\Свое\Captures\C#\Клиент-Сервер\NewClient\NewClient\obj\Debug\net8.0\NewClient.pdb
+E:\Свое\Captures\C#\Клиент-Сервер\NewClient\NewClient\obj\Debug\net8.0\NewClient.genruntimeconfig.cache
+E:\Свое\Captures\C#\Клиент-Сервер\NewClient\NewClient\obj\Debug\net8.0\ref\NewClient.dll

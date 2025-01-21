@@ -1,0 +1,14 @@
+E:\Свое\Captures\C#\Клиент-Сервер\MultiThreadServer\MultiThreadServer\bin\Debug\net8.0\MultiThreadServer.exe
+E:\Свое\Captures\C#\Клиент-Сервер\MultiThreadServer\MultiThreadServer\bin\Debug\net8.0\MultiThreadServer.deps.json
+E:\Свое\Captures\C#\Клиент-Сервер\MultiThreadServer\MultiThreadServer\bin\Debug\net8.0\MultiThreadServer.runtimeconfig.json
+E:\Свое\Captures\C#\Клиент-Сервер\MultiThreadServer\MultiThreadServer\bin\Debug\net8.0\MultiThreadServer.dll
+E:\Свое\Captures\C#\Клиент-Сервер\MultiThreadServer\MultiThreadServer\bin\Debug\net8.0\MultiThreadServer.pdb
+E:\Свое\Captures\C#\Клиент-Сервер\MultiThreadServer\MultiThreadServer\obj\Debug\net8.0\MultiThreadServer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Свое\Captures\C#\Клиент-Сервер\MultiThreadServer\MultiThreadServer\obj\Debug\net8.0\MultiThreadServer.AssemblyInfoInputs.cache
+E:\Свое\Captures\C#\Клиент-Сервер\MultiThreadServer\MultiThreadServer\obj\Debug\net8.0\MultiThreadServer.AssemblyInfo.cs
+E:\Свое\Captures\C#\Клиент-Сервер\MultiThreadServer\MultiThreadServer\obj\Debug\net8.0\MultiThreadServer.csproj.CoreCompileInputs.cache
+E:\Свое\Captures\C#\Клиент-Сервер\MultiThreadServer\MultiThreadServer\obj\Debug\net8.0\MultiThreadServer.dll
+E:\Свое\Captures\C#\Клиент-Сервер\MultiThreadServer\MultiThreadServer\obj\Debug\net8.0\refint\MultiThreadServer.dll
+E:\Свое\Captures\C#\Клиент-Сервер\MultiThreadServer\MultiThreadServer\obj\Debug\net8.0\MultiThreadServer.pdb
+E:\Свое\Captures\C#\Клиент-Сервер\MultiThreadServer\MultiThreadServer\obj\Debug\net8.0\MultiThreadServer.genruntimeconfig.cache
+E:\Свое\Captures\C#\Клиент-Сервер\MultiThreadServer\MultiThreadServer\obj\Debug\net8.0\ref\MultiThreadServer.dll
